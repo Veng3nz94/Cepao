@@ -1,0 +1,16 @@
+Cepao_main.spec
+build/Cepao_main/Analysis-00.toc
+build/Cepao_main/base_library.zip
+build/Cepao_main/Cepao_main.pkg
+build/Cepao_main/EXE-00.toc
+build/Cepao_main/PKG-00.toc
+build/Cepao_main/PYZ-00.pyz
+build/Cepao_main/PYZ-00.toc
+build/Cepao_main/warn-Cepao_main.txt
+build/Cepao_main/xref-Cepao_main.html
+build/Cepao_main/localpycs/pyimod01_archive.pyc
+build/Cepao_main/localpycs/pyimod02_importers.pyc
+build/Cepao_main/localpycs/pyimod03_ctypes.pyc
+build/Cepao_main/localpycs/pyimod04_pywin32.pyc
+build/Cepao_main/localpycs/struct.pyc
+dist/Cepao_main.exe
