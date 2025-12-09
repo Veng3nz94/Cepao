@@ -23,8 +23,4 @@ Perfeito para quem precisa validar endereços, preencher formulários ou apenas 
 
 ## 💻 Como Usar
 
-### 1. Pré-requisitos
-- Ter o [Python](https://www.python.org/downloads/) instalado.
-- Instalar a biblioteca `requests`:
-  ```bash
-  pip install requests
+- Baixar o release v1.0 nessa página ao lado.
